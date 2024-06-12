@@ -1,0 +1,20 @@
+.html {
+    box-sizing: border-box;
+    /** Se aplica a todos los elementos **/
+    font-size: 62.5%;
+    /*1rem igual a 10px*/
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .9rem;
+    background-color: #27403C;
+}
